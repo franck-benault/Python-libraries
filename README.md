@@ -7,4 +7,8 @@
 * machine learning
   * scikit-learn
     * reference of machine learning in Python
-    * https://scikit-learn.org/stable/ 
+    * https://scikit-learn.org/stable/
+  * imbalanced-learn
+   * compliant with scikit-learn
+   * tools when dealing with classification with imbalanced classes.
+   * https://imbalanced-learn.org/stable/ 
