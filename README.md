@@ -3,7 +3,13 @@
 * Mathematics
   * Sympy
     * symbolic mathematics
-    * https://www.sympy.org/en/index.html 
+    * https://www.sympy.org/en/index.html
+  * NumPy
+    * The fundamental package for scientific computing with Python
+    * https://numpy.org/
+  * pandas
+    * pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+    * https://pandas.pydata.org/  
 * machine learning
   * scikit-learn
     * reference of machine learning in Python
