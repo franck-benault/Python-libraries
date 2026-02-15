@@ -8,6 +8,7 @@
     * The fundamental package for scientific computing with Python
     * https://numpy.org/
   * pandas
+    * data analysis
     * pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
     * https://pandas.pydata.org/  
 * machine learning
@@ -17,4 +18,8 @@
   * imbalanced-learn
     * compliant with scikit-learn
     * tools when dealing with classification with imbalanced classes.
-    * https://imbalanced-learn.org/stable/ 
+    * https://imbalanced-learn.org/stable/
+* Visualization
+  * Matplotlib
+* AI agent
+  * langchain
