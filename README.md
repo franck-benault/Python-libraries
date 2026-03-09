@@ -20,6 +20,9 @@
     * tools when dealing with classification with imbalanced classes.
     * https://imbalanced-learn.org/stable/
 * Visualization
-  * Matplotlib
+  * Matplotlib (data visualization)
+  * Seaborn (advanced charts)
+* Deep learning
+  * TensorFlow  
 * AI agent
   * langchain
