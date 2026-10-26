@@ -24,5 +24,7 @@
   * Seaborn (advanced charts)
 * Deep learning
   * TensorFlow  
-* AI agent
+* AI 
+  * NetworkX (graph, complex network)
+    * https://networkx.org
   * langchain
